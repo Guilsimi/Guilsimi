@@ -1,5 +1,5 @@
-### Olá, me chamo Guilherme Simioni!
--  Trabalho principalmente com back-end e desenvolvimento de API's Restful.
+#### Olá, me chamo Guilherme!
+#### Conheça aqui meus projetos e repositórios, trabalho principalmente com o desenvolvimento de APIs Restful, pode enviar uma mensagem no meu linkedin para trocarmos idéias!
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
